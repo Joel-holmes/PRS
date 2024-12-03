@@ -14,4 +14,4 @@ shark_data.csv - compilation of standardised and modified abundance time-series 
 **Scripts**
 
 PRS.R - (Section 1: Compilation, standardisation and modifications of source data; Section 2: Statistical analysis;
-and Section 3: Plotting figures
+and Section 3: Plotting figures)
