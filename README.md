@@ -8,9 +8,7 @@ Data and R code for "Global Evidence of Chondrichthyan Recovery in the Last 30 Y
 
 
 **Assets**
-
 shark_data.csv
 
 **Scripts**
-
 PRS.R
