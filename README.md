@@ -11,6 +11,8 @@ Data and R code for "Global Evidence of Chondrichthyan Recovery in the Last 30 Y
 
 shark_data.csv - compilation of standardised and modified abundance time-series downloadable from https://www.sharkipedia.org/trends
 
+Sharkipedia CSVs - all original csv files from sharkipedia with unstandardised values
+
 **Scripts**
 
 PRS.R - (Section 1: Compilation, standardisation and modifications of source data; Section 2: Statistical analysis;
